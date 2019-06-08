@@ -1,6 +1,5 @@
-Users:
-	E-mail:ivakpg@gmail.com
-	Password:12345678
+<h2>Rent a car agency website</h2>
 
-	E:mail:mark@gmail.com
-	Password:123456789
+Simple Rent a car agency website made using Laravel and mySQL database. 
+
+Using this site registered user can make online reservations for picked dates. 
